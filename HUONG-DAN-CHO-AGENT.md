@@ -28,7 +28,7 @@ Kiểm tra có nhật ký để đọc:
 ## 2. Tải mã về (đặt ngoài thư mục dự án)
 
 ```bash
-git clone https://github.com/vinaichatbot-rgb/van-phong-ao-3d.git ~/van-phong-ao-3d
+git clone https://github.com/qtpham01vnn-sketch/van-phong-ai-3d.git ~/van-phong-ao-3d
 cd ~/van-phong-ao-3d
 ```
 
@@ -165,3 +165,4 @@ Ngắn gọn, kết luận trước. Ví dụ:
 - Đổi phòng hay chức danh bằng `staff` trong `config.json`. Giấu phiên bằng `hide`.
 - **Tin bay giữa bàn:** phiên Claude gửi bằng SendMessage; Codex nhận qua `[PEER MESSAGE]`. Chủ gõ vào phiên nào thì hiện là "Giám đốc nói" với phiên đó.
 - **Bị chặn (đỏ):** câu trả lời mới nhất có `[CHẶN]` hoặc "bị chặn". **Chờ DEV (vàng):** đang trong hàng chờ `vp luot cho`.
+
